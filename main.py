@@ -1,5 +1,6 @@
 from point import Point
 from rectangle import Rectangle 
+from circle  import Circle
 
 
 while True:
